@@ -47,7 +47,7 @@ const Signin = () => {
   return (
     <>
       <div className="mb-10 text-center mx-auto inline-block max-w-[160px]">
-        <Logo />
+        {/* <Logo /> */}
       </div>
 
       <SocialSignIn />

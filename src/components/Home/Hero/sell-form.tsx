@@ -73,7 +73,7 @@ const SellCrypto = () => {
   return (
     <div className="max-w-md mx-auto p-4">
       <div className="flex justify-center mb-16">
-        <Logo />
+        {/* <Logo /> */}
       </div>
       <form onSubmit={handleSubmit}>
         <div className="mb-4 relative">
