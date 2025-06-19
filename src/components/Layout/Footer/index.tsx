@@ -43,7 +43,7 @@ const Footer: FC = () => {
               2025 Copright | Crypgo
             </h3>
             <h3 className="text-white text-24 font-medium sm:mt-20 mt-12">
-              Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+              Distributed by <a href="/#" target="_blank">DigitalDoodle</a>
             </h3>
           </div>
           <div className="lg:col-span-2 md:col-span-3 col-span-6">
